@@ -39,7 +39,6 @@ print("""\033[31m
 print("\033[31mDDOS FOR SAMP | GTPS | WEBSITE")
 print("\033[31mSubscribe Xs Sutejo.")
 print("\033[31mAttack By SUTEJO To IP %s|%s"%(orgip,port))
-print("\033[31mServer Down !!")
 
 
 
