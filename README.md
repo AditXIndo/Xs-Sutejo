@@ -1,0 +1,2 @@
+# Xs-Sutejo
+JANGAN ABUSE PEPEK LU SMUA
